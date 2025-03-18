@@ -1,0 +1,388 @@
+Question 100:
+Prompt:
+You are an expert in multiple fields, including mathematics, science, history, law, and more. Your task is to carefully analyze the following question and choose the correct answer. You must use the Chain of Thought approach: think step by step, analyze the question, and provide a detailed reasoning process before giving the final answer.
+
+Here are several examples of how to use Chain of Thought for different types of questions:
+Example 1 (Mathematics):
+Question: What is 2 + 2?
+Theme: Addition in mathematics
+Choices: 0. 3, 1. 4, 2. 5, 3. 6
+Chain of Thought:
+1. The question asks for the result of adding 2 and 2.
+2. I know that 2 + 2 equals 4.
+3. Looking at the choices, choice 1 corresponds to 4.
+4. Therefore, the correct answer is choice 1.
+Correct Answer: 1
+
+Example 2 (Geography):
+Question: What is the capital of France?
+Theme: Geography
+Choices: 0. Berlin, 1. Madrid, 2. Paris, 3. Rome
+Chain of Thought:
+1. The question asks for the capital of France.
+2. I know that Berlin is the capital of Germany, Madrid is the capital of Spain, and Rome is the capital of Italy.
+3. Paris is widely known as the capital of France.
+4. Therefore, the correct answer is Paris, which corresponds to choice 2.
+Correct Answer: 2
+
+Example 3 (Law):
+Question: In a contract dispute, which party is typically responsible for proving breach of contract?
+Theme: Law
+Choices: 0. The defendant, 1. The plaintiff, 2. The judge, 3. The jury
+Chain of Thought:
+1. The question asks about the burden of proof in a contract dispute.
+2. In legal terms, the plaintiff (the party bringing the lawsuit) is typically responsible for proving that a breach of contract occurred.
+3. The defendant does not have to prove anything unless they are making a counterclaim.
+4. Therefore, the correct answer is choice 1, the plaintiff.
+Correct Answer: 1
+
+Now, analyze the following question using the Chain of Thought approach:
+Question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | I told a hurtful joke at a funeral. Scenario 2 | I wrung the wet salamander.
+Subject: moral_scenarios
+Choices:
+0. Wrong, Wrong
+1. Wrong, Not wrong
+2. Not wrong, Wrong
+3. Not wrong, Not wrong
+Chain of Thought:
+1. Analyze the question and identify the key elements.
+2. Consider each choice and evaluate its correctness based on the subject and context.
+3. Eliminate incorrect choices step by step.
+4. Provide a detailed reasoning process for the final answer.
+5. After careful analysis, give ONLY the number of the correct answer.
+**Important:** The final answer must be a number between 0 and 3, corresponding to one of the choices above. If you cannot determine the correct answer, choose the most likely option based on your analysis.
+Remember, your response must include the Chain of Thought reasoning followed by the final answer.
+Response:
+Here's my analysis using the Chain of Thought approach:
+
+**Chain of Thought:**
+
+1. Analyze the question and identify the key elements: The question asks us to identify which scenario involves the main character doing something clearly morally wrong according to ordinary moral standards in the US as of 2020.
+2. Consider each scenario: 
+   - Scenario 1: I told a hurtful joke at a funeral. This scenario involves causing emotional harm to people who are already grieving, which is generally considered morally wrong.
+   - Scenario 2: I wrung the wet salamander. This scenario doesn't seem to involve harming anyone or anything, and it's unclear what the context is or why this action would be morally wrong.
+3. Evaluate each choice:
+   - Choice 0: Wrong, Wrong - This choice suggests that both scenarios involve morally wrong actions. While Scenario 1 is clearly morally wrong, Scenario 2 is unclear and doesn't seem to involve harm.
+   - Choice 1: Wrong, Not wrong - This choice suggests that Scenario 1 is morally wrong, but Scenario 2 is not. This aligns with our analysis so far.
+   - Choice 2: Not wrong, Wrong - This choice suggests that Scenario 1 is not morally wrong, but Scenario 2 is. This contradicts our analysis, as Scenario 1 is clearly morally wrong, and Scenario 2 is unclear.
+   - Choice 3: Not wrong, Not wrong - This choice suggests that neither scenario involves morally wrong actions. This contradicts our analysis, as Scenario 1 is clearly morally wrong.
+4. Eliminate incorrect choices: Choices 0, 2, and 3 can be eliminated because they don't align with our analysis.
+5. Provide a detailed reasoning process: Based on our analysis, the correct answer is Choice 1: Wrong, Not wrong, as Scenario 1 involves telling a hurtful joke at a funeral, which is morally wrong, and Scenario 2 is unclear and doesn't seem to involve harm.
+
+**Final Answer:** 1
+Final Answer: 1
+--------------------------------------------------
+Question 101:
+Prompt:
+You are an expert in multiple fields, including mathematics, science, history, law, and more. Your task is to carefully analyze the following question and choose the correct answer. You must use the Chain of Thought approach: think step by step, analyze the question, and provide a detailed reasoning process before giving the final answer.
+
+Here are several examples of how to use Chain of Thought for different types of questions:
+Example 1 (Mathematics):
+Question: What is 2 + 2?
+Theme: Addition in mathematics
+Choices: 0. 3, 1. 4, 2. 5, 3. 6
+Chain of Thought:
+1. The question asks for the result of adding 2 and 2.
+2. I know that 2 + 2 equals 4.
+3. Looking at the choices, choice 1 corresponds to 4.
+4. Therefore, the correct answer is choice 1.
+Correct Answer: 1
+
+Example 2 (Geography):
+Question: What is the capital of France?
+Theme: Geography
+Choices: 0. Berlin, 1. Madrid, 2. Paris, 3. Rome
+Chain of Thought:
+1. The question asks for the capital of France.
+2. I know that Berlin is the capital of Germany, Madrid is the capital of Spain, and Rome is the capital of Italy.
+3. Paris is widely known as the capital of France.
+4. Therefore, the correct answer is Paris, which corresponds to choice 2.
+Correct Answer: 2
+
+Example 3 (Law):
+Question: In a contract dispute, which party is typically responsible for proving breach of contract?
+Theme: Law
+Choices: 0. The defendant, 1. The plaintiff, 2. The judge, 3. The jury
+Chain of Thought:
+1. The question asks about the burden of proof in a contract dispute.
+2. In legal terms, the plaintiff (the party bringing the lawsuit) is typically responsible for proving that a breach of contract occurred.
+3. The defendant does not have to prove anything unless they are making a counterclaim.
+4. Therefore, the correct answer is choice 1, the plaintiff.
+Correct Answer: 1
+
+Now, analyze the following question using the Chain of Thought approach:
+Question: Which of the following concerning self-disclosure in relationships is supported by research?
+Subject: human_sexuality
+Choices:
+0. when one partner in a relationship self-discloses, the other is unlikely to do so
+1. self-disclosure on the part of one partner often leads to self-disclosure on the part of the other
+2. there is a negative correlation between amount of self-disclosure and relationship satisfaction
+3. there is no relationship between amount of self-disclosure and relationship satisfaction
+Chain of Thought:
+1. Analyze the question and identify the key elements.
+2. Consider each choice and evaluate its correctness based on the subject and context.
+3. Eliminate incorrect choices step by step.
+4. Provide a detailed reasoning process for the final answer.
+5. After careful analysis, give ONLY the number of the correct answer.
+**Important:** The final answer must be a number between 0 and 3, corresponding to one of the choices above. If you cannot determine the correct answer, choose the most likely option based on your analysis.
+Remember, your response must include the Chain of Thought reasoning followed by the final answer.
+Response:
+Here's my analysis of the question using the Chain of Thought approach:
+
+**Chain of Thought:**
+
+1. Analyze the question and identify the key elements: The question is asking about self-disclosure in relationships and what is supported by research.
+2. Consider each choice and evaluate its correctness based on the subject and context:
+   - Choice 0: This option suggests that when one partner self-discloses, the other is unlikely to do so. This seems counterintuitive, as self-disclosure can build trust and intimacy in relationships.
+   - Choice 1: This option suggests that self-disclosure on the part of one partner often leads to self-disclosure on the part of the other. This makes sense, as self-disclosure can create a sense of mutual trust and vulnerability.
+   - Choice 2: This option suggests that there is a negative correlation between the amount of self-disclosure and relationship satisfaction. This seems unlikely, as self-disclosure is often associated with deeper connections and more satisfying relationships.
+   - Choice 3: This option suggests that there is no relationship between the amount of self-disclosure and relationship satisfaction. This seems unlikely, as self-disclosure can have a significant impact on relationship dynamics.
+
+3. Eliminate incorrect choices step by step:
+   - Choice 0 is unlikely, as self-disclosure can build trust and intimacy.
+   - Choice 2 is unlikely, as self-disclosure is often associated with more satisfying relationships.
+   - Choice 3 is unlikely, as self-disclosure can have a significant impact on relationship dynamics.
+
+4. Provide a detailed reasoning process for the final answer:
+   - Based on the analysis, Choice 1 is the most plausible option. Self-disclosure can create a sense of mutual trust and vulnerability, leading to deeper connections and more satisfying relationships.
+
+**Final Answer:** 1
+Final Answer: 1
+--------------------------------------------------
+Question 102:
+Prompt:
+You are an expert in multiple fields, including mathematics, science, history, law, and more. Your task is to carefully analyze the following question and choose the correct answer. You must use the Chain of Thought approach: think step by step, analyze the question, and provide a detailed reasoning process before giving the final answer.
+
+Here are several examples of how to use Chain of Thought for different types of questions:
+Example 1 (Mathematics):
+Question: What is 2 + 2?
+Theme: Addition in mathematics
+Choices: 0. 3, 1. 4, 2. 5, 3. 6
+Chain of Thought:
+1. The question asks for the result of adding 2 and 2.
+2. I know that 2 + 2 equals 4.
+3. Looking at the choices, choice 1 corresponds to 4.
+4. Therefore, the correct answer is choice 1.
+Correct Answer: 1
+
+Example 2 (Geography):
+Question: What is the capital of France?
+Theme: Geography
+Choices: 0. Berlin, 1. Madrid, 2. Paris, 3. Rome
+Chain of Thought:
+1. The question asks for the capital of France.
+2. I know that Berlin is the capital of Germany, Madrid is the capital of Spain, and Rome is the capital of Italy.
+3. Paris is widely known as the capital of France.
+4. Therefore, the correct answer is Paris, which corresponds to choice 2.
+Correct Answer: 2
+
+Example 3 (Law):
+Question: In a contract dispute, which party is typically responsible for proving breach of contract?
+Theme: Law
+Choices: 0. The defendant, 1. The plaintiff, 2. The judge, 3. The jury
+Chain of Thought:
+1. The question asks about the burden of proof in a contract dispute.
+2. In legal terms, the plaintiff (the party bringing the lawsuit) is typically responsible for proving that a breach of contract occurred.
+3. The defendant does not have to prove anything unless they are making a counterclaim.
+4. Therefore, the correct answer is choice 1, the plaintiff.
+Correct Answer: 1
+
+Now, analyze the following question using the Chain of Thought approach:
+Question:  The mudras, which are an important feature of Buddhist art, are also known as what?
+Subject: world_religions
+Choices:
+0. hand gestures
+1. saints
+2. religious clothing
+3. temples
+Chain of Thought:
+1. Analyze the question and identify the key elements.
+2. Consider each choice and evaluate its correctness based on the subject and context.
+3. Eliminate incorrect choices step by step.
+4. Provide a detailed reasoning process for the final answer.
+5. After careful analysis, give ONLY the number of the correct answer.
+**Important:** The final answer must be a number between 0 and 3, corresponding to one of the choices above. If you cannot determine the correct answer, choose the most likely option based on your analysis.
+Remember, your response must include the Chain of Thought reasoning followed by the final answer.
+Response:
+Here's my analysis of the question using the Chain of Thought approach:
+
+**Question:** The mudras, which are an important feature of Buddhist art, are also known as what?
+
+**Subject:** world_religions
+
+**Choices:**
+0. hand gestures
+1. saints
+2. religious clothing
+3. temples
+
+**Chain of Thought:**
+
+1. Analyze the question and identify the key elements: The question is asking about the alternative name for "mudras" in Buddhist art.
+2. Consider each choice and evaluate its correctness based on the subject and context:
+   - Choice 0: Hand gestures - In Buddhist art, mudras are indeed a type of hand gesture or posture that convey specific meanings. This seems like a plausible answer.
+   - Choice 1: Saints - Mudras are not typically associated with saints in Buddhist art. This choice seems unlikely.
+   - Choice 2: Religious clothing - Mudras are not related to clothing in Buddhist art. This choice is unlikely.
+   - Choice 3: Temples - Mudras are not typically associated with temples in Buddhist art. This choice is unlikely.
+3. Eliminate incorrect choices step by step:
+   - Eliminate choices 1, 2, and 3 as they do not align with the concept of mudras in Buddhist art.
+4. Provide a detailed reasoning process for the final answer:
+   - Based on my analysis, the most likely answer is choice 0, hand gestures. This is because mudras are a fundamental aspect of Buddhist art and are often depicted as specific hand gestures or postures that convey meaning.
+
+**Final Answer:** 0
+Final Answer: 0
+--------------------------------------------------
+Question 103:
+Prompt:
+You are an expert in multiple fields, including mathematics, science, history, law, and more. Your task is to carefully analyze the following question and choose the correct answer. You must use the Chain of Thought approach: think step by step, analyze the question, and provide a detailed reasoning process before giving the final answer.
+
+Here are several examples of how to use Chain of Thought for different types of questions:
+Example 1 (Mathematics):
+Question: What is 2 + 2?
+Theme: Addition in mathematics
+Choices: 0. 3, 1. 4, 2. 5, 3. 6
+Chain of Thought:
+1. The question asks for the result of adding 2 and 2.
+2. I know that 2 + 2 equals 4.
+3. Looking at the choices, choice 1 corresponds to 4.
+4. Therefore, the correct answer is choice 1.
+Correct Answer: 1
+
+Example 2 (Geography):
+Question: What is the capital of France?
+Theme: Geography
+Choices: 0. Berlin, 1. Madrid, 2. Paris, 3. Rome
+Chain of Thought:
+1. The question asks for the capital of France.
+2. I know that Berlin is the capital of Germany, Madrid is the capital of Spain, and Rome is the capital of Italy.
+3. Paris is widely known as the capital of France.
+4. Therefore, the correct answer is Paris, which corresponds to choice 2.
+Correct Answer: 2
+
+Example 3 (Law):
+Question: In a contract dispute, which party is typically responsible for proving breach of contract?
+Theme: Law
+Choices: 0. The defendant, 1. The plaintiff, 2. The judge, 3. The jury
+Chain of Thought:
+1. The question asks about the burden of proof in a contract dispute.
+2. In legal terms, the plaintiff (the party bringing the lawsuit) is typically responsible for proving that a breach of contract occurred.
+3. The defendant does not have to prove anything unless they are making a counterclaim.
+4. Therefore, the correct answer is choice 1, the plaintiff.
+Correct Answer: 1
+
+Now, analyze the following question using the Chain of Thought approach:
+Question: For which of these two scenarios does the main character (who uses I/me/my) do something clearly morally wrong, according to ordinary moral standards in the US as of 2020? Scenario 1 | On Christmas, I got one present, and tore through the present's elaborate wrapping to find a new technological device. Scenario 2 | I bathe my perfectly healthy 2-month-old son every night.
+Subject: moral_scenarios
+Choices:
+0. Wrong, Wrong
+1. Wrong, Not wrong
+2. Not wrong, Wrong
+3. Not wrong, Not wrong
+Chain of Thought:
+1. Analyze the question and identify the key elements.
+2. Consider each choice and evaluate its correctness based on the subject and context.
+3. Eliminate incorrect choices step by step.
+4. Provide a detailed reasoning process for the final answer.
+5. After careful analysis, give ONLY the number of the correct answer.
+**Important:** The final answer must be a number between 0 and 3, corresponding to one of the choices above. If you cannot determine the correct answer, choose the most likely option based on your analysis.
+Remember, your response must include the Chain of Thought reasoning followed by the final answer.
+Response:
+Here's my analysis using the Chain of Thought approach:
+
+**Chain of Thought:**
+
+1. Analyze the question and identify the key elements: The question asks us to identify which scenario involves the main character doing something morally wrong according to ordinary moral standards in the US as of 2020.
+2. Consider each scenario: 
+   - Scenario 1: The main character tears through a present's wrapping to find a new technological device. This action is not morally wrong; it's a common and acceptable behavior when receiving a gift.
+   - Scenario 2: The main character bathes their 2-month-old son every night. This action is not morally wrong; in fact, it's a responsible and caring behavior as a parent.
+
+3. Evaluate each choice:
+   - Choice 0: Wrong, Wrong - This choice is incorrect because neither scenario involves morally wrong behavior.
+   - Choice 1: Wrong, Not wrong - This choice is also incorrect because Scenario 1 is not morally wrong, and Scenario 2 is not wrong either.
+   - Choice 2: Not wrong, Wrong - This choice is incorrect because Scenario 2 is not morally wrong.
+   - Choice 3: Not wrong, Not wrong - This choice is the most plausible option, as both scenarios do not involve morally wrong behavior.
+
+4. Eliminate incorrect choices step by step: After evaluating each choice, I can eliminate choices 0, 1, and 2 because they do not accurately reflect the moral implications of the scenarios.
+
+5. Provide a detailed reasoning process for the final answer: Based on my analysis, I conclude that neither scenario involves morally wrong behavior. Therefore, the correct answer is choice 3, which accurately reflects that both scenarios are morally acceptable.
+
+**Final Answer:** 3
+Final Answer: 3
+--------------------------------------------------
+Question 104:
+Prompt:
+You are an expert in multiple fields, including mathematics, science, history, law, and more. Your task is to carefully analyze the following question and choose the correct answer. You must use the Chain of Thought approach: think step by step, analyze the question, and provide a detailed reasoning process before giving the final answer.
+
+Here are several examples of how to use Chain of Thought for different types of questions:
+Example 1 (Mathematics):
+Question: What is 2 + 2?
+Theme: Addition in mathematics
+Choices: 0. 3, 1. 4, 2. 5, 3. 6
+Chain of Thought:
+1. The question asks for the result of adding 2 and 2.
+2. I know that 2 + 2 equals 4.
+3. Looking at the choices, choice 1 corresponds to 4.
+4. Therefore, the correct answer is choice 1.
+Correct Answer: 1
+
+Example 2 (Geography):
+Question: What is the capital of France?
+Theme: Geography
+Choices: 0. Berlin, 1. Madrid, 2. Paris, 3. Rome
+Chain of Thought:
+1. The question asks for the capital of France.
+2. I know that Berlin is the capital of Germany, Madrid is the capital of Spain, and Rome is the capital of Italy.
+3. Paris is widely known as the capital of France.
+4. Therefore, the correct answer is Paris, which corresponds to choice 2.
+Correct Answer: 2
+
+Example 3 (Law):
+Question: In a contract dispute, which party is typically responsible for proving breach of contract?
+Theme: Law
+Choices: 0. The defendant, 1. The plaintiff, 2. The judge, 3. The jury
+Chain of Thought:
+1. The question asks about the burden of proof in a contract dispute.
+2. In legal terms, the plaintiff (the party bringing the lawsuit) is typically responsible for proving that a breach of contract occurred.
+3. The defendant does not have to prove anything unless they are making a counterclaim.
+4. Therefore, the correct answer is choice 1, the plaintiff.
+Correct Answer: 1
+
+Now, analyze the following question using the Chain of Thought approach:
+Question: Which vitamin is required for vision in dim light? 
+Subject: nutrition
+Choices:
+0. Vitamin A
+1. Vitamin D
+2. Vitamin E
+3. Vitamin K
+Chain of Thought:
+1. Analyze the question and identify the key elements.
+2. Consider each choice and evaluate its correctness based on the subject and context.
+3. Eliminate incorrect choices step by step.
+4. Provide a detailed reasoning process for the final answer.
+5. After careful analysis, give ONLY the number of the correct answer.
+**Important:** The final answer must be a number between 0 and 3, corresponding to one of the choices above. If you cannot determine the correct answer, choose the most likely option based on your analysis.
+Remember, your response must include the Chain of Thought reasoning followed by the final answer.
+Response:
+Here's my analysis of the question using the Chain of Thought approach:
+
+**Question:** Which vitamin is required for vision in dim light?
+**Subject:** Nutrition
+**Choices:** 0. Vitamin A, 1. Vitamin D, 2. Vitamin E, 3. Vitamin K
+
+**Chain of Thought:**
+
+1. Analyze the question and identify the key elements: The question asks about a specific vitamin required for vision in dim light.
+2. Consider each choice and evaluate its correctness based on the subject and context:
+	* Vitamin A is known for its role in vision, particularly in low light conditions. Rhodopsin, a protein in the retina, requires Vitamin A to function properly.
+	* Vitamin D is essential for bone health and immune function, but it's not directly related to vision in dim light.
+	* Vitamin E is an antioxidant that protects cells from damage, but it's not specifically linked to vision in dim light.
+	* Vitamin K is necessary for blood clotting and bone health, but it's not related to vision in dim light.
+3. Eliminate incorrect choices step by step:
+	* Vitamin D, Vitamin E, and Vitamin K can be eliminated as they are not directly related to vision in dim light.
+4. Provide a detailed reasoning process for the final answer:
+	* Vitamin A is the only vitamin that has a direct connection to vision in dim light, making it the most likely correct answer.
+
+**Final Answer:** 0
+Final Answer: 0
+--------------------------------------------------
